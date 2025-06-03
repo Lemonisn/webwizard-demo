@@ -1,4 +1,4 @@
-<?php // Example 08: profile.php
+<?php //
   require_once 'header.php';
 
   if (!$loggedin) die("</div></body></html>");

@@ -1,4 +1,4 @@
-<?php // Example 11: messages.php
+<?php // 
   require_once 'header.php';
   
   if (!$loggedin) die("</div></body></html>");

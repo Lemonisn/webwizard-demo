@@ -1,4 +1,4 @@
-<?php // Example 02: header.php
+<?php 
   session_start();
 
 echo <<<_INIT

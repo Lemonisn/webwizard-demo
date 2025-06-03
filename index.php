@@ -11,7 +11,7 @@
       </div><br>
     </div>
     <div data-role="footer">
-      <h4>Web App from <i><a href='https://github.com/RobinNixon/lpmj6'
+      <h4>Web App from <i><a href='https://lemonisn.github.io/webwizard-demo/'
       target='_blank'>Learning PHP MySQL & JavaScript</a></i></h4>
     </div>
   </body>

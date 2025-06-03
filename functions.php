@@ -1,4 +1,4 @@
-<?php // Example 01: functions.php
+<?php 
   $host = 'localhost';    // Change as necessary
   $data = 'robinsnest';   // Change as necessary
   $user = 'robinsnest';   // Change as necessary
